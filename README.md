@@ -5,7 +5,9 @@
 
 -   🌱 I’m currently learning **React**
 
--   📫 How to reach me **dimasbp1726@gmail.com**
+-   📩 How to contact me **dimasbp1726@gmail.com**
+
+-   ☕ Prepare **coffee** before coding
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

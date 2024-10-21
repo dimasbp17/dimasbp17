@@ -9,7 +9,7 @@
 
 -   ☕ Prepare **coffee** before coding
 
--   💼 https://dimasbagusprasetyo.vercel.app/
+-   💼 Look me at https://dimasbagusprasetyo.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

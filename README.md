@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasbp17&label=Profile%20views&color=0e75b6&style=flat" alt="dimasbp17" /> </p>
 
--   🌱 I’m currently learning **Typescript**
+-   🌱 I’m currently learning **TypeScript**
 
 -   📩 How to contact me **dimasbp1726@gmail.com**
 
